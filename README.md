@@ -2,7 +2,7 @@
 
 In below map, infected cases are shown by color and circles. With button, it can be seen evaluation of confirmed cases in Portugal. 
 
-![Screen Shot 2020-03-28 at 19 33 01](https://user-images.githubusercontent.com/35189163/77830755-0afb5f80-712b-11ea-827a-7cdc2bd0c885.png)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/35189163/77831034-f1f3ae00-712c-11ea-9f92-d4d1d45b79c4.gif)
 
 # Installation
 
