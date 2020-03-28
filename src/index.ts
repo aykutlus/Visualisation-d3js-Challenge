@@ -16,7 +16,7 @@ const svg = d3
 
 const aProjection = d3Composite
 .geoConicConformalPortugal()
-.scale(5000)
+.scale(7000)
 .translate([300, 400]);
 
 
